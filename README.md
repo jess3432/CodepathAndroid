@@ -1,6 +1,6 @@
 # Android Prework - *My Application*
 
-Submitted by: **Jessica Che**
+Submitted by: **Jessica Chen**
 
 **My Application** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
