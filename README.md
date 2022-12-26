@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/coigyKa' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="MyApplication.gif" width="800">
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
